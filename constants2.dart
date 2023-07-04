@@ -1,0 +1,9 @@
+const DB_NAME = 'note.db';
+const DB_VERSION =1;
+const TABLE_NAME='notes';
+const COL_ID='noteId';
+const COL_TEXT='noteText';
+const COL_DATE='noteDate';
+const COL_UPDATE_DATE='noteUpdateDate';
+const ApiKEey='d69594382bc2997694f61e4b67302acc';
+const BaseUrl='http://api.wheatherstack.com';
